@@ -7,13 +7,15 @@ package javaapplication1;
 
 /**
  *
- * @author TARUN VERMA
+ * @author Mind_Coder
  */
-import java.util.*;
-public class hello_world {
-     public static void main(String []args)
-     {
-         System.out.println("Hello World!!");
-     }
+public class JavaApplication1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }

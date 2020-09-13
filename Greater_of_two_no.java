@@ -7,6 +7,7 @@
  *
  * @author TARUN VERMA
  */
+package javaapplication1;
 import java.util.*;
  class Greatest_of_two_no {
     public static void
