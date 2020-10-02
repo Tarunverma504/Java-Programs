@@ -62,8 +62,10 @@ public class Constructor {
         Student_ s1=new Student_("Tarun");
         Student_ s2=new Student_("Om","1910990498");
         Student_ s3=new Student_("Rahul","1910990496","CSE");
-        Student_ s4=new Student_("vishesh","1910990504","CSE",80000);
-        Student_ s5=new Student_("Shivam","1910990510","CSE",80000,98);
+        Student_ s4=new Student_("vishesnnh","1910990504","CSE",80000);
+        Student_ s6=new Student_("Shivam","1910990510","CSE",80000,98);
+         Student_ s7=new Student_("Shiam","1914550990510","CSE",80000,9);
+         Student_ s9=new Student_("Shivjnam","1910990990510","CSE",80,98);
     }
     
 }
